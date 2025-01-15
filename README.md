@@ -1,4 +1,4 @@
-# Business Intelligence Dashboards with ETL Pipelines
+# Business Intelligence Dashboards (Domo)
 
 ## Overview
 This repository highlights two Business Intelligence projects where I developed and implemented comprehensive ETL pipelines using **Domo** to automate data integration, transformation, and visualization processes:
